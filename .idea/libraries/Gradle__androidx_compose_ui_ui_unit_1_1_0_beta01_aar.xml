@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.ui:ui-unit:1.1.0-beta01@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../ComposeNotes-master/caches/transforms-3/1535dedb478d63b5f97d9c5e1e4414a4/transformed/jetified-ui-unit-1.1.0-beta01/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../ComposeNotes-master/caches/transforms-3/1535dedb478d63b5f97d9c5e1e4414a4/transformed/jetified-ui-unit-1.1.0-beta01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../ComposeNotes-master/caches/transforms-3/1535dedb478d63b5f97d9c5e1e4414a4/transformed/jetified-ui-unit-1.1.0-beta01/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../ComposeNotes-master/caches/modules-2/files-2.1/androidx.compose.ui/ui-unit/1.1.0-beta01/e7d13bf2b7360ed393166e3f825368e71e9fcd3f/ui-unit-1.1.0-beta01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
